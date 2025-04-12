@@ -1,0 +1,21 @@
+/* client/src/index.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+#root {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+input, button {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
